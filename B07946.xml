@@ -1,0 +1,643 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The black bastel, or, A lamentation in name of the kirk of Sscotland [sic], composed by M. Iames Melvil, when he was confined at Berwick anno 1611. ; Abridged by N..</title>
+            <author>Melville, James, 1556-1614.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07946</idno>
+            <idno type="STC">STC 17815</idno>
+            <idno type="STC">ESTC S94163</idno>
+            <idno type="EEBO-CITATION">68222451</idno>
+            <idno type="OCLC">ocm 68222451</idno>
+            <idno type="VID">183761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07946)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183761)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The black bastel, or, A lamentation in name of the kirk of Sscotland [sic], composed by M. Iames Melvil, when he was confined at Berwick anno 1611. ; Abridged by N..</title>
+                  <author>Melville, James, 1556-1614.</author>
+               </titleStmt>
+               <extent>[15] p.   </extent>
+               <publicationStmt>
+                  <publisher>J. Wreittoun,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1634].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from STC (2nd ed.).</note>
+                  <note>Signature: A⁸.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Poetry --  Early works to 1800.</term>
+               <term>Church of Scotland --  Apologetic works --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183761:1"/>
+            <pb facs="tcp:183761:1"/>
+            <pb facs="tcp:183761:2"/>
+            <pb facs="tcp:183761:2"/>
+            <pb facs="tcp:183761:3"/>
+            <pb facs="tcp:183761:3"/>
+            <pb facs="tcp:183761:4" rendition="simple:additions"/>
+            <pb facs="tcp:183761:4"/>
+            <p>THE BLACK BASTEL, <hi>OR,</hi> A LAMENTATION IN NAME of the Kirk of SSCOTLAND, compoſed <hi>by M. Iames Melvil, when he was confined at Berwick anno</hi> 1611. <hi>Abridged by</hi> N.</p>
+            <q>Remember therefore from whence thou art fallen, and repent, and do the firſt works, or elſe I will come unto thee quickly, and will remove thy candleſtick out of his place, except thou repent. <bibl>
+                  <hi>Rev. 2.5.</hi>
+               </bibl>
+            </q>
+            <q>Fear none of thoſe things which thou shalt ſuffer: be<g ref="char:EOLhyphen"/>hold, the devil shall caſt ſome of you into priſon, that yee may be tried, and yee shall haue tribulation ten dayes, be thou faithful unto death, and I will giue thee a crowne of life. <bibl>
+                  <hi>Verſ. 10.</hi>
+               </bibl>
+            </q>
+            <q>But I haue a few things againſt thee, becauſe thou haſt there them that hold the doctrine of Balaam, who taught Balac to caſt a ſtumbling block before the children of Iſrael, to eate things ſacrificed unto idols, and to commit fornication. <bibl>
+                  <hi>Verſ. 14.</hi>
+               </bibl>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183761:5"/>
+            <pb facs="tcp:183761:5" rendition="simple:additions"/>
+            <head>THE BLACK BASTEL.</head>
+            <lg>
+               <l>THe thouſand yeare, ſix hundred &amp; eleven.</l>
+               <l>When as the Sun entred in <hi>Sagittarie,</hi>
+               </l>
+               <l>
+                  <hi>Orion</hi> riſing in the eaſt of heaven,</l>
+               <l>
+                  <hi>Diana's</hi> court then <hi>Gemini</hi> did carie,</l>
+               <l>And <hi>Ioue</hi> in the Meridian did tarie,</l>
+               <l>
+                  <hi>Saturne</hi> ſeverely rolling o're the night,</l>
+               <l>
+                  <hi>Mars, Venus, Hermes</hi> bringing home the light.</l>
+            </lg>
+            <lg>
+               <l>The aire was cold, but calme, no cloud in sky,</l>
+               <l>The fields all white, and the great Ocean ſtill;</l>
+               <l>Yet the hard froſt making the ground as dry,</l>
+               <l>I quickly ſtir'd my ſelfe to walk at will</l>
+               <l>Along the ſhore; at length I came untill</l>
+               <l>A braue white place, where had ben built a caſtel,</l>
+               <l>And commonly is called, the <hi>Black Baſtell.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I took me to a caue where was ſome hay,</l>
+               <l>The mouth whereof lay open to the Sun,</l>
+               <l>There did I reſt me warme, as into May:</l>
+               <l>And after ſome deep meditation,</l>
+               <l>I ſtept, and thought I ſaw a viſion,</l>
+               <l>A ſight which griev'd me at the heart right ſore,</l>
+               <l>And unto death will ever more and more.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:6"/>
+               <l>A woman of moſt comely countenance<g ref="char:punc">▪</g>
+               </l>
+               <l>With farded face, and gariſh in attire,</l>
+               <l>A crown of glaſſe upon her head did glance,</l>
+               <l>Her clothes were colour'd contrare her deſire<g ref="char:punc">▪</g>
+               </l>
+               <l>A heavie yoke upon her neck and lyre,</l>
+               <l>Of Reed a ſcepter in her hand ſhe boore,</l>
+               <l>Rich in attire, yet ſilly, leane, and poore.</l>
+            </lg>
+            <lg>
+               <l>Rais'd up on high upon a royall Throne,</l>
+               <l>Did awfull ſit aboue the womans head,</l>
+               <l>Commanding everie thing for to be done,</l>
+               <l>As pleaſed him, a rampand Lyon red:</l>
+               <l>This Lyon craftie Foxes two did lead,</l>
+               <l>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow</hi> 14.</note>And round about him thirteen wolues did dance</l>
+               <l>To keep her ſheep, whom he was to advance.</l>
+            </lg>
+            <lg>
+               <l>Her ſheepheards all in hundreds ſtood near by,</l>
+               <l>With dog &amp; ſtaffe, who ſomtime bold had been,</l>
+               <l>But now were careleſſe, though they heard her cry,</l>
+               <l>And uſed juſt like to a captiue Queen;</l>
+               <l>Her heavie caſe ſome few in heart did meen,</l>
+               <l>But could not helpe, ſo many couch'd for feare</l>
+               <l>Of Wolfe and Lyon, or were ſnar'd with geare.</l>
+            </lg>
+            <lg>
+               <l>Her Torches, Tapers, Candles were put out,</l>
+               <l>And none there was that durſt renew their light:</l>
+               <l>Great flocks of ſheep lay folded round about,</l>
+               <l>Well pluck'd and clipped bare into my ſight,</l>
+               <l>If once on them ſhe caſt her eyes full bright,</l>
+               <l>The Wolues to yell, the Lyon fell to roare,</l>
+               <l>Which did affright that Ladies heart full ſore.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:6"/>
+               <l>Vpon a table ſpr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> green,</l>
+               <l>Did lye two bookes, all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> gilt, but cloſed,</l>
+               <l>That not one word within them might be ſeen:</l>
+               <l>For mens conceits were then to be impoſed,</l>
+               <l>And that no good occaſion might bee loſed,</l>
+               <l>Me thought aſſembly ſummon'd was &amp; called,<note place="margin">Glaſgow aſſembly <hi>1610.</hi>
+                  </note>
+               </l>
+               <l>Of huble buble ſheepheards hir'd and thralled.</l>
+            </lg>
+            <lg>
+               <l>Apes, horſes, hounds met there, with many a rod,</l>
+               <l>The Leopard with aromatick ſmell,<note place="margin">Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bar.</note>
+               </l>
+               <l>As Lyons great Lieutenant with his nod,</l>
+               <l>And mangled ſpeech, the Lyons will could tell,</l>
+               <l>Fenced the court, threatned if any mell</l>
+               <l>With matters there, but as he had directed,</l>
+               <l>That they ſhould rue, &amp; ſoundly be corrected.</l>
+            </lg>
+            <lg>
+               <l>Then ſtood there up a Wolfe all clad in ſilk,<note place="margin">Spoiſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </note>
+               </l>
+               <l>A Wolfe indeed, yet liſping like a Lambe,</l>
+               <l>And made a ſermon all of wooll and milk,</l>
+               <l>To move the ſheepheards hired for the ſame,</l>
+               <l>Conſent the Lyon there ſhould win the game.</l>
+               <l>Cauſing all beaſts and ſheep for to beleeue,</l>
+               <l>Nought could be done without the lyons leaue.</l>
+            </lg>
+            <lg>
+               <l>And then forſooth the Wolfs muſt be advanced,</l>
+               <l>Seeing it was the Lyons will and pleaſure:</l>
+               <l>To ſheep no greater curſe there could haue chance<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Yet did the Lyon like them out of meaſure,</l>
+               <l>His royall crowne, his dignitie and treaſure,</l>
+               <l>Without ſuch ſtateſmen could not ſtable ſtand,</l>
+               <l>Nor could he freely reigne within the land.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:7"/>
+               <l>With one conſent the beaſts about applauded,</l>
+               <l>None of the ſheepheards there would co<g ref="char:cmbAbbrStroke">̄</g>tradict,</l>
+               <l>For hirelings rents the Lyon was collauded,</l>
+               <l>No limitation, threatning was ſo thick:</l>
+               <l>Some for to ſay intended ſick and ſick,</l>
+               <l>But fear and geare, and falſhood all convoyed,</l>
+               <l>And ſo the Lyon what he would enjoyed.</l>
+            </lg>
+            <lg>
+               <l>The dogs ſhal have their wonted cotes in cure,</l>
+               <l>The wolfs aboue the dogs high ſhal be placed,</l>
+               <l>To make the Lyons crown ſtand firm and ſure.</l>
+               <l>This being done, &amp; wolfs thus greatly graced,</l>
+               <l>Reel'd to and fro till they had all defaced.</l>
+               <l>The wofull woman in her bitter paſſion,</l>
+               <l>Powr'd out with tears this heavie lamentation.</l>
+            </lg>
+            <lg>
+               <l>I was of late a Queen of great renowne,</l>
+               <l>My fame was ſpred abroad all <hi>Europe</hi> through,</l>
+               <l>In everie province, and in everie towne,</l>
+               <l>I was well ſerved both in land and Burgh.</l>
+               <l>No perſon high or low, ſo rude, ſo rough,</l>
+               <l>My lawes or precepts raſhly vilipended.</l>
+               <l>All ſtood ſuch aw that I ſhould be offended.</l>
+            </lg>
+            <lg>
+               <l>Through all the land my congregations</l>
+               <l>For to behold it was an heavenly ſight,</l>
+               <l>The like whereof was not in other nations,</l>
+               <l>Such lively force, and ſuch a lampe of light,</l>
+               <l>Such evidence of all ſpirituall might,</l>
+               <l>By divine doctrine throwing down the proud,</l>
+               <l>And feeding hungry ſouls with healthfull food</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:7"/>
+               <l>A thunderbolt from pulpit, as from heaven,</l>
+               <l>You ſhould have heard a fearful noiſe to make,</l>
+               <l>By force whereof a hard heart rent and riven,</l>
+               <l>The ſtubburn ſinners ſtallward ſtomake quake,</l>
+               <l>The members tremble, and the head to ake.</l>
+               <l>With ſuch a ſhout when doctrine was applied,</l>
+               <l>As would have made the ſtouteſt courage flied.</l>
+            </lg>
+            <lg>
+               <l>Thus knocked firſt my <hi>Knox,</hi> and terrified</l>
+               <l>The <hi>Zanzummins,</hi> and all the hounds of hell,</l>
+               <l>My <hi>Lowſon, Craig,</hi> and <hi>Durie</hi> magnified</l>
+               <l>That meſſage which did ſcarre all fiendes fell,</l>
+               <l>My <hi>Bruce,</hi> my <hi>Rollock</hi> with a heavenly ſmell</l>
+               <l>Of fervent zeale and true ſanctification,</l>
+               <l>Perfum'd the hearts of many in that nation.</l>
+            </lg>
+            <lg>
+               <l>My Presbytries had ſuch a comely order,</l>
+               <l>That all light Levits, and the lewdeſt limmer,</l>
+               <l>Either in Hieland, or the utmoſt border,</l>
+               <l>Did them regard: yet was it not farre trimmer,</l>
+               <l>When Synods met in winter and in ſummer?</l>
+               <l>Try'd Presbytries, and if peradventure,</l>
+               <l>Ought was amiſſe, redreſt it by their cenſure.</l>
+            </lg>
+            <lg>
+               <l>My generall aſſemblies terrible,</l>
+               <l>Like to an armie with diſplayed Banners.</l>
+               <l>Control'd all were incorrigible</l>
+               <l>In lower Synods for their vitious manners,</l>
+               <l>With care ſuppreſſed all corrupt explainers</l>
+               <l>Of Scriptures; Papiſts, and all heretickes</l>
+               <l>Were curbed, and contending Schiſmatickes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:8"/>
+               <l>With wine &amp; honey did my Schools ore-flow.</l>
+               <l>When <hi>Melvil</hi> and his fellows had the charge,</l>
+               <l>Then did the youth in zeal and learning grow,</l>
+               <l>From thence I had <hi>Barjona</hi> and <hi>Boanerge,</hi>
+               </l>
+               <l>When ſhepheards ſtipe<g ref="char:cmbAbbrStroke">̄</g>ds were not half ſo large,</l>
+               <l>Such were prefer'd as rightly were affected,</l>
+               <l>But Dogs &amp; Swine, if known, were all rejected.</l>
+            </lg>
+            <lg>
+               <l>That lownes are now made Lords my heart it galls,</l>
+               <l>Worthies exiled, &amp; the worſt rewarded,</l>
+               <l>To ſee falſe knaves to governe, ſore me thralls,</l>
+               <l>The grave and godly not to be regarded:</l>
+               <l>I mocked am while they me thus have farded,</l>
+               <l>My gold in glaſſe, my ſearge is turn'd in ſcarlet,</l>
+               <l>Not like my ſelfe, but like to <hi>Babels</hi> harlot.</l>
+            </lg>
+            <lg>
+               <l>My crown and ſolid ſcepter they haue re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t me,</l>
+               <l>And dreſt me up in bruckle glaſſe and reed,</l>
+               <l>And reſt the rights wherwith my king infe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t me</l>
+               <l>Without the which my flock I cannot feed</l>
+               <l>As it becometh, with that heavenly bread.</l>
+               <l>They haue upon me laid this heavie yoke</l>
+               <l>Of bite-ſheep Biſhops, as I were a ſtocke.</l>
+            </lg>
+            <lg>
+               <l>This ſtu<g ref="char:cmbAbbrStroke">̄</g>bling-block hath made fro<g ref="char:cmbAbbrStroke">̄</g> heaven to tumble</l>
+               <l>Some ſeeming ſtars, &amp; made the<g ref="char:cmbAbbrStroke">̄</g> change their tongue,</l>
+               <l>My weakling hogs &amp; lambs are made to ſtu<g ref="char:cmbAbbrStroke">̄</g>ble,</l>
+               <l>Paſtors to hear from point to point impugne,</l>
+               <l>That which before as truth from pulpits rung,</l>
+               <l>Are ſo offended, that in their hearts they murn,</l>
+               <l>Caſt ſo in doubt, they know not where to turn.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:8"/>
+               <l>Never was nation ſo ſolemnly ſworne,</l>
+               <l>Vnder the pain of fearfull condemnation,</l>
+               <l>To diſcipline defend, which now with ſcorn,</l>
+               <l>Is tramped under foot with fierce oppreſſion.</l>
+               <l>For perfidie, and for ſuch foul defection,</l>
+               <l>I am ſo ſtoniſht that I cannot ſtand</l>
+               <l>For horrour, but do tremble foot and hand.</l>
+            </lg>
+            <lg>
+               <l>Prayer and preaching are they not prophan'd,</l>
+               <l>And hireling paſtors love to live at eaſe,</l>
+               <l>Sinceritie and zeale all where diſdain'd,</l>
+               <l>Who is not luke-warm nick-nam'd is preciſe,</l>
+               <l>Or not conform unto the Kirks decrees.</l>
+               <l>Say libertines, althogh their cauſe be wrongous,</l>
+               <l>The rod is rent wherwith before they dang us.</l>
+            </lg>
+            <lg>
+               <l>O that my people their apoſtaſie</l>
+               <l>Would yet perceive, &amp; ſeek to God their guide,</l>
+               <l>Would yet confeſſe their vile hypocriſie,</l>
+               <l>Foreſee at laſt what ſhall at length betide,</l>
+               <l>Flouriſh ſhall poperie in its greateſt pride.</l>
+               <l>This is but doubt the foretold day of tryall:</l>
+               <l>Lord ſave thine own from filthy foule denyall.</l>
+            </lg>
+            <lg>
+               <l>Conſider, Lord, with pittie, my complaint,</l>
+               <l>My glore is gone, I mourn for <hi>Elies</hi> fall,</l>
+               <l>And captive ark, I wiſh my life were ſpent.</l>
+               <l>Gone are the great aſſemblies generall,</l>
+               <l>And few, or none, for their return do call.</l>
+               <l>The holy veſſels are carri'd far away,</l>
+               <l>Wolfe, hogge and dogge do what they pleaſe or may.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:9"/>
+               <l>Me to comfort there is none of my lovers,</l>
+               <l>My friends are fled, and look to me a farre;</l>
+               <l>Yea many of them are become reprovers,</l>
+               <l>They turn aſide, and glance on me a skarre,</l>
+               <l>And ſome, like barking dogs, begin to gnarre,</l>
+               <l>By craft, by coin, by Kings authoritie,</l>
+               <l>What pleaſes men, is brought to paſſe on me.</l>
+            </lg>
+            <lg>
+               <l>I cry as if I felt ſome ſharp inciſion,</l>
+               <l>When I beholde the preſent miſerie,</l>
+               <l>I cry as if there were ſome great diviſion</l>
+               <l>Into my bones, with pain to torment me.</l>
+               <l>Wilde Boars and ſwine dwell in the ſanctuarie</l>
+               <l>Even baſtard Biſhops, worſe than <hi>Moabites.</hi>
+               </l>
+               <l>And more malicious than the <hi>Ammonites.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Like ſubtile foxes they have entred in.</l>
+               <l>Pretending me to honour and enrich,</l>
+               <l>Wild wolfs well wrapped in a weathers skin,</l>
+               <l>Have dealt by craft till I fell in the ditch:</l>
+               <l>Now on my belly they their tents do pitch,</l>
+               <l>And reign like lyons o're my ſheepe and hogs.</l>
+               <l>Convert them Lord, or let them die like dogs.</l>
+            </lg>
+            <lg>
+               <l>My candleſtick is like to be removed</l>
+               <l>For ſins of Paſtors and of Congregations,</l>
+               <l>Which thee, ô Lord, have unto wrath co<g ref="char:cmbAbbrStroke">̄</g>moved;</l>
+               <l>And have brought on theſe fearfull deſolations,</l>
+               <l>Paſtors for gain and glore have left their ſtations.</l>
+               <l>Their wealth and honour is not worth a louſe,</l>
+               <l>If Chriſt with grace be baniſht from the houſe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:9"/>
+               <l>Are theſe the fruits, O <hi>Scotland,</hi> of thy field?</l>
+               <l>Are theſe the grapes of ſuch a glorious vine?</l>
+               <l>Are theſe the captains caſt away their ſhields?</l>
+               <l>Are theſe the ſouldiers vowd their lives to tine?</l>
+               <l>I am aſhamed that they are call'd mine.</l>
+               <l>They feeble are, I cannot ſay bewitched,</l>
+               <l>That thus do faint &amp; flee, when ſcarſly touched</l>
+            </lg>
+            <lg>
+               <l>It is well ſeen the daſtard ſpirit of ſlaverie</l>
+               <l>Hath made thee for to quite thy libertie,</l>
+               <l>It is well ſeen the craftie ſpirit of knaverie</l>
+               <l>Hath ſpoyld thee of thy magnanimitie,</l>
+               <l>And brought thee under this ſervilitie.</l>
+               <l>No Kirk ſo glorious was in any land,</l>
+               <l>But now it ſeemes it builded was on ſand.</l>
+            </lg>
+            <lg>
+               <l>Wilt thou return to beaſtly <hi>Babylon?</hi>
+               </l>
+               <l>Wilt thou returne againe to <hi>Egypt</hi> land?</l>
+               <l>Wilt thou forſake thy holy mount <hi>Sion?</hi>
+               </l>
+               <l>And joyne thy ſelf unto that curſed band?</l>
+               <l>Shall Antichriſt thus have the upper hand,</l>
+               <l>And all my faithfull ſervants never ſee</l>
+               <l>Returne againe their late captivitie?</l>
+            </lg>
+            <lg>
+               <l>Then wiſh I Lord, that thou ſhouldſt make my head</l>
+               <l>A running well, whoſe waters ever grow,</l>
+               <l>Or that mine eyes were zetting ſpouts of lead,</l>
+               <l>Wherout my guſhing tears may ever flow;</l>
+               <l>Yea ſome great floud, where barges great may row</l>
+               <l>That aye the earth may drink my tears as raine,</l>
+               <l>And aye my eyes may make it moiſt againe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:183761:10"/>
+               <l>O that I had the wings of ſome faire Doue,</l>
+               <l>That I might flee forth to the wilderneſſe,</l>
+               <l>Leſt I ſhould ſeem their doings to approue,</l>
+               <l>Or beare with ſuch profeſſed wickedneſſe;</l>
+               <l>But ſince (alas) I can it not redreſſe,</l>
+               <l>I will go hence, and hide me in ſome hill,</l>
+               <l>Or in ſome hole where I may weep my fill.</l>
+            </lg>
+            <lg>
+               <l>Nor will I ceaſe from ſighs, O Lord, each day,</l>
+               <l>Till of my pains thou have compaſſion,</l>
+               <l>And do repaire the breach and great decay</l>
+               <l>Of <hi>Sion,</hi> and her deſolation,</l>
+               <l>And to my mourners ſend ſome conſolation:</l>
+               <l>For I cannot permit an earthly King,</l>
+               <l>Or paughtie Prelates o're my head to reigne.</l>
+            </lg>
+            <div type="conclusion">
+               <head>CONCLVSION.</head>
+               <lg>
+                  <l>Now certainly I thoght ſhe would have ſpended</l>
+                  <l>Moe dayes and nights into her lamentation,</l>
+                  <l>If that a fierie dragon had not ended</l>
+                  <l>Her mournfull moan in a moſt ugly faſhion,</l>
+                  <l>With horrible and fearfull perturbation,</l>
+                  <l>He ſpouted flames, and troubled all the aire,</l>
+                  <l>That ſhe noght ſpake, and I could hear na mair.</l>
+               </lg>
+               <lg>
+                  <l>But ſuddenly down with a mightie hoaſt</l>
+                  <l>Come MICHAEL with all his Angels cleare.</l>
+                  <l>And beat him down for all his fearfull boaſt.</l>
+                  <l>And carried thence with him his Ladie deare.</l>
+                  <l>Sure I was put into a fellon feare,</l>
+                  <l>I found me faint, come home, and yet the viſion</l>
+                  <l>Made in my minde and heart a deep impreſſion.</l>
+               </lg>
+            </div>
+            <trailer>FINIS</trailer>
+         </div>
+         <div type="poems">
+            <pb facs="tcp:183761:10"/>
+            <div type="poem">
+               <head>
+                  <hi>ANOTHER DEPLORING</hi> of late the caſe of our Kirk.</head>
+               <l>NO pleaſure of my pleaſures all,</l>
+               <l>can pleaſant be to mee,</l>
+               <l>O deareſt mother chaſt, and all</l>
+               <l>for ſhame and skaith of thee.</l>
+               <l>Mine eyes powre out ſalt ſtreames of teares,</l>
+               <l>thy thraldome to deplore,</l>
+               <l>Mine heart doth bleed, my lungs doe leap,</l>
+               <l>and all my bowels roare,</l>
+               <l>My Diademe of gold and gemmes,</l>
+               <l>which did thy head adorne,</l>
+               <l>Is thrown to ground, in place whereof</l>
+               <l>thou crowned art with thorne.</l>
+               <l>Thy coſtly chaines beſtow'd on thee,</l>
+               <l>by thy deare Spouſe and Lord,</l>
+               <l>Are quite bereft, and thy faire neck</l>
+               <l>now compaſt with a cord.</l>
+               <l>Thy royall robe embroidered faire,</l>
+               <l>and lined with Lucerve,</l>
+               <l>Is turn'd to ſacke, which to beholde</l>
+               <l>doth make my fleſh to ſterve.</l>
+               <l>Thy bracelets rich, which did of late</l>
+               <l>decore thy comely hands,</l>
+               <l>Are rent from them, and fettered faſt</l>
+               <l>into hard yron bands.</l>
+               <l>
+                  <pb facs="tcp:183761:11"/>Thy golden rod chang'd in a reed.</l>
+               <l>by humane art compiled,</l>
+               <l>Thine holy Seales with papall ſtampe,</l>
+               <l>and Romiſh rites defiled.</l>
+               <l>Where faithfull preachers with Chriſts voyce,</l>
+               <l>were wont to ſound before,</l>
+               <l>Now bite-ſheepe wolves into thine eares</l>
+               <l>with uncouth howlings roare.</l>
+               <l>
+                  <hi>Arminianiſme</hi> and Papiſtrie,</l>
+               <l>now in thy pulpits ſound,</l>
+               <l>Which like a daggers deadly dint,</l>
+               <l>doth cauſe my ſtomacke ſtound.</l>
+               <l>I and my mates ſometime refreſht</l>
+               <l>with dew from heaven that rained,</l>
+               <l>Now poyſoned are with theſe fowle dregges,</l>
+               <l>from Romiſh Bitch are ſtrained.</l>
+               <l>Prince, People, Peeres, and Prelates all,</l>
+               <l>awake, awake in time,</l>
+               <l>With teares, and ſighes, and ſobbes ſtriue ſtill</l>
+               <l>to expiate this crime.</l>
+            </div>
+            <div type="epigram">
+               <pb facs="tcp:183761:11"/>
+               <head>Mr. ANDREW MELVINS EPIGRAMME upon the Engliſh <hi>Altar in Latine, and tranſlated.</hi>
+               </head>
+               <l>CVr ſtant clauſi Anglis libri duo regia in ara</l>
+               <l>lumina caeca duo, pellubra ſicca duo.</l>
+               <l>Num ſenſum cultum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Dei tenet Anglia clauſum</l>
+               <l>Lumine caeca ſuo ſorde ſepulta ſua</l>
+               <l>Romano ac ritu dum regalem inſtruit <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Purpuream pingit religioſa lupam.</l>
+            </div>
+            <div type="epigram">
+               <head>The ſame in English.</head>
+               <l>ON Kingly Chappels altar ſtand,</l>
+               <l>blinde candleſtickes, clos'd bookes,</l>
+               <l>Dry ſilver baſins, two of each.</l>
+               <l>Wherefore? ſaith he who looks,</l>
+               <l>The minde and worſhip of the Lord</l>
+               <l>Dorh England ſo keep cloſe</l>
+               <l>Blinde in her ſight, and buried in</l>
+               <l>her filthineſſe and droſſe.</l>
+               <l>And while with Romane rites ſhe doth</l>
+               <l>Her kingly altar dreſſe,</l>
+               <l>Religiouſly the purpled whoore,</l>
+               <l>to trim ſhe doth profeſſe.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183761:12"/>
+            <pb facs="tcp:183761:12"/>
+            <pb facs="tcp:183761:13"/>
+            <pb facs="tcp:183761:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
